@@ -1,0 +1,2 @@
+jogador1:3925
+jogador2:6075
